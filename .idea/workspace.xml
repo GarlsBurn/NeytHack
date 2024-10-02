@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d9f00a-6052-4f44-9038-0cb4d6ee659d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeytHack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tavern-menu-items.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/towns.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Creature.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Navigation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Room.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/SwordJuggler.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/Tavern.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bignerdranch/neythack/extensions/IterableExt.kt" afterDir="false" />
-    </list>
+    <list default="true" id="49d9f00a-6052-4f44-9038-0cb4d6ee659d" name="Changes" comment="New Version of NeytHack" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +40,11 @@
     "Kotlin.SwordJugglerKt.executor": "Run",
     "Kotlin.TavernKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Groovy"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,6 +78,15 @@
       <option name="presentableId" value="Default" />
       <updated>1712919034674</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Version of NeytHack">
+      <option name="closed" value="true" />
+      <created>1727860665916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727860665916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New Version of NeytHack" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Version of NeytHack" />
   </component>
 </project>
